@@ -1,3 +1,4 @@
+package mnemonics;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
